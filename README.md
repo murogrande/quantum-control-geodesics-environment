@@ -8,5 +8,5 @@ We present a quantum control esqueme that concerns the geodesic of the density m
 write me: 
 mjmendizabal@uc.cl
 
-### The work is not done yet. 
+### This work is an on going task thus we are still devoping
 
